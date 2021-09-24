@@ -1,3 +1,8 @@
+#我的
+vogen/config/config.json
+vogen/synth/libs/
+*.bat
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
