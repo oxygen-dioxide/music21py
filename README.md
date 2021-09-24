@@ -29,7 +29,7 @@ crd=musicpy.chord(['C5', 'E5', 'G5', 'B5'],interval=[0.25,0.5,0.75,1])
 strm=music21py.mpy_to_m21(crd)
 strm.show()
 ```
-![](res/2021-09-24-13-06-26.png)
+![](res/2021-09-24-13-06-26.jpg)
 
 ## 为什么要开发这个库
 在我看来，musicpy和music21是两个口味不同的Python乐理分析库。
