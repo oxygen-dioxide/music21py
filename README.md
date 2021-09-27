@@ -1,8 +1,17 @@
 # music21py
-music21与musicpy对象互转
+[Github](https://github.com/oxygen-dioxide/music21py) | 
+[Gitee](https://gitee.com/oxygendioxide/music21py) | 
+[Gitlab](https://gitlab.com/oxygen-dioxide/music21py) | 
+[Bitbucket](https://bitbucket.org/oxygendioxide/music21py) | 
+[Coding](https://oxygen-dioxide.coding.net/public/1/music21py/git/files)
+
+
+[music21](https://web.mit.edu/music21/doc/index.html)与[musicpy](https://github.com/Rainbow-Dreamer/musicpy)对象互转
 
 ## 安装
-暂未上架pypi，请下载本仓库，将music21py文件夹移动到python安装目录下的Lib文件夹中
+```
+pip install music21py
+```
 
 ## 使用说明
 ### `music21py.m21_to_mpy`：music21转musicpy
